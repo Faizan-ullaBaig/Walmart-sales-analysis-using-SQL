@@ -1,0 +1,13 @@
+Customer_type,Product_line,Total_Sales
+Member,"Food and beverages",31357.620000000003
+Member,"Sports and travel",28234.30049999999
+Member,"Home and lifestyle",27978.027
+Member,"Fashion accessories",26323.961999999996
+Member,"Health and beauty",25831.039499999995
+Member,"Electronic accessories",24498.494999999995
+Normal,"Electronic accessories",29839.036500000002
+Normal,"Fashion accessories",27981.93300000001
+Normal,"Sports and travel",26888.526
+Normal,"Home and lifestyle",25883.88600000001
+Normal,"Food and beverages",24787.223999999995
+Normal,"Health and beauty",23362.699499999995
